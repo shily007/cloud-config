@@ -1,5 +1,5 @@
 server:
-  port: 7002
+  port: 7001
 
 spring:
   application:
@@ -13,7 +13,7 @@ spring:
   security:
     user:
       name: user
-      password: 111
+      password: 1111
         
 management:
   endpoints:
