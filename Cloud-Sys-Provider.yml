@@ -49,10 +49,3 @@ management:
       exposure:
         include: '*'
     
-#本服务的说明 
-info: 
-  app.name: "@project.artifactId@"
-  company.name: www.dy.com
-  build.artifactId: "@project.artifactId@"
-  build.version: "@project.version@"
-
